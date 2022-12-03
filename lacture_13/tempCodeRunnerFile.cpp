@@ -1,0 +1,1 @@
+first(arr,n,k)
